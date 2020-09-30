@@ -1,0 +1,87 @@
+[
+    {
+      "id": 1,
+      "firstName": "David",
+      "lastName": "Smith",
+      "role": "IT",
+      "startDate": "08/08/18"
+    },
+    {
+      "id": 2,
+      "firstName": "Anne",
+      "lastName": "Bell",
+      "role": "HR",
+      "startDate": "04/04/14"
+    },
+    {
+      "id": 3,
+      "firstName": "Jake",
+      "lastName": "StateFarm",
+      "role": "Sales",
+      "startDate": "09/09/19"
+    },
+    {
+      "id": 4,
+      "firstName": "Paul",
+      "lastName": "Smith",
+      "role": "Boy Genius",
+      "startDate": "A Secret Laboratory"
+    },
+    {
+      "id": 5,
+      "firstName": "David",
+      "lastName": "Smith",
+      "role": "A Cowardly Dog",
+      "startDate": "Nowhere, Kansas"
+    },
+    {
+      "id": 6,
+      "firstName": "David",
+      "lastName": "Smith",
+      "role": "Student",
+      "startDate": "Bluffington"
+    },
+    {
+      "id": 7,
+      "firstName": "David",
+      "lastName": "Smith",
+      "role": "Looney Toon",
+      "startDate": "A Rabbit Burrow"
+    },
+    {
+      "id": 8,
+      "firstName": "David",
+      "lastName": "Smith",
+      "role": "Ladies Man",
+      "startDate": "Aron City"
+    },
+    {
+      "id": 9,
+      "firstName": "David",
+      "lastName": "Smith",
+      "role": "Adventurer",
+      "startDate": "California"
+    },
+    {
+      "id": 10,
+      "name": "Rocko",
+      
+      "role": "Cashier",
+      "startDate": "O-Town, California"
+    },
+    {
+      "id": 11,
+      "firstName": "David",
+      "lastName": "Smith",
+      "role": "Superhero",
+      "startDate": "Earth"
+    },
+    {
+      "id": 12,
+      "firstName": "David",
+      "lastName": "Smith",
+      "role": "Ahhhh! A Real Monster!",
+      "startDate": "Under a City Dump"
+    }
+  ]
+  
