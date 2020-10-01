@@ -15,8 +15,12 @@ class App extends Component {
     filter: employees
   }
   search = (e, searchName) => {
+    // console.log("testing")
+    console.log(searchName)
     e.preventDefault()
+    
     const filtered = this.state.employees.filter(employee => {
+      console.log(this.state.employees)
       if (employee.firstName.startsWith(searchName)) {
         return employee
       }
