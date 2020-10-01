@@ -1,6 +1,6 @@
 # User Directory React
- ## Image
- ![ApplicationImage](Assets/ScreenShot.png)
+ ## Gif
+ ![Alt Text](public/gif.gif)
 
   [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
