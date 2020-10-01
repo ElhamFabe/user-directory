@@ -12,11 +12,11 @@ function SearchBar(props) {
                         setUserInput(e.value)
                     }}
                     value = {userInput}
-                    type="text" className="form-control" placeholder="First name" />
+                    type="text" className="form-control" placeholder="Search By First name" />
                 </div>
                 <button type="submit" className="btn btn-primary" onSubmit = { (e) => {
                     props.search(e, userInput)
-                }}>Sign in</button>
+                }}>Search</button>
             </div>
         </form>
     )

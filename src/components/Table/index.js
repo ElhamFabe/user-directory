@@ -2,7 +2,7 @@ import React from 'react';
 
 function Table(props) {
     return (
-        <table class="table table-dark">
+        <table className="table table-dark">
             <thead>
                 <tr>
                     <th scope="col">id</th>
